@@ -2,52 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a354f36b-eaf8-4ceb-8c8f-1aa4104f0782" name="Default" comment="">
-      <change type="DELETED" beforePath="C:\Users\kevin\Documents\Project\Minecraft\1.7.10\CustomRPG\out\production\CustomRPG\assets\customrpg\lang\en_US.lang" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\kevin\Documents\Project\Minecraft\1.7.10\CustomRPG\out\production\CustomRPG\assets\customrpg\textures\blocks\CustomBlock01.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\kevin\Documents\Project\Minecraft\1.7.10\CustomRPG\out\production\CustomRPG\assets\customrpg\textures\items\Item01.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\kevin\Documents\Project\Minecraft\1.7.10\CustomRPG\out\production\CustomRPG\assets\customrpg\textures\items\manasword.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\kevin\Documents\Project\Minecraft\1.7.10\CustomRPG\out\production\CustomRPG\com\sidacious\customrpg\CustomRPG.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\kevin\Documents\Project\Minecraft\1.7.10\CustomRPG\out\production\CustomRPG\com\sidacious\customrpg\block\Block01.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\kevin\Documents\Project\Minecraft\1.7.10\CustomRPG\out\production\CustomRPG\com\sidacious\customrpg\block\BlockCustomRPG.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\kevin\Documents\Project\Minecraft\1.7.10\CustomRPG\out\production\CustomRPG\com\sidacious\customrpg\client\gui\GuiFactory.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\kevin\Documents\Project\Minecraft\1.7.10\CustomRPG\out\production\CustomRPG\com\sidacious\customrpg\client\gui\ModGuiConfig.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\kevin\Documents\Project\Minecraft\1.7.10\CustomRPG\out\production\CustomRPG\com\sidacious\customrpg\configuration\ConfigurationHandler.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\kevin\Documents\Project\Minecraft\1.7.10\CustomRPG\out\production\CustomRPG\com\sidacious\customrpg\creativetab\CreativeTabCustomRPG$1.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\kevin\Documents\Project\Minecraft\1.7.10\CustomRPG\out\production\CustomRPG\com\sidacious\customrpg\creativetab\CreativeTabCustomRPG.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\kevin\Documents\Project\Minecraft\1.7.10\CustomRPG\out\production\CustomRPG\com\sidacious\customrpg\init\ModBlocks.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\kevin\Documents\Project\Minecraft\1.7.10\CustomRPG\out\production\CustomRPG\com\sidacious\customrpg\init\ModItems.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\kevin\Documents\Project\Minecraft\1.7.10\CustomRPG\out\production\CustomRPG\com\sidacious\customrpg\item\ItemCustomRPG.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\kevin\Documents\Project\Minecraft\1.7.10\CustomRPG\out\production\CustomRPG\com\sidacious\customrpg\item\ItemManaSword.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\kevin\Documents\Project\Minecraft\1.7.10\CustomRPG\out\production\CustomRPG\com\sidacious\customrpg\proxy\ClientProxy.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\kevin\Documents\Project\Minecraft\1.7.10\CustomRPG\out\production\CustomRPG\com\sidacious\customrpg\proxy\CommonProxy.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\kevin\Documents\Project\Minecraft\1.7.10\CustomRPG\out\production\CustomRPG\com\sidacious\customrpg\proxy\IProxy.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\kevin\Documents\Project\Minecraft\1.7.10\CustomRPG\out\production\CustomRPG\com\sidacious\customrpg\proxy\ServerProxy.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\kevin\Documents\Project\Minecraft\1.7.10\CustomRPG\out\production\CustomRPG\com\sidacious\customrpg\reference\Name$Items.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\kevin\Documents\Project\Minecraft\1.7.10\CustomRPG\out\production\CustomRPG\com\sidacious\customrpg\reference\Name.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\kevin\Documents\Project\Minecraft\1.7.10\CustomRPG\out\production\CustomRPG\com\sidacious\customrpg\reference\Reference.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\kevin\Documents\Project\Minecraft\1.7.10\CustomRPG\out\production\CustomRPG\com\sidacious\customrpg\reference\Textures.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\kevin\Documents\Project\Minecraft\1.7.10\CustomRPG\out\production\CustomRPG\com\sidacious\customrpg\utility\LogHelper.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\kevin\Documents\Project\Minecraft\1.7.10\CustomRPG\out\production\CustomRPG\com\sidacious\customrpg\utility\NameUtility.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\kevin\Documents\Project\Minecraft\1.7.10\CustomRPG\out\production\CustomRPG\mcmod.info" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eclipse/saves/New World/playerdata/23d7e7bc-6e91-3bb0-aef5-04f8d5ce94c1.dat" afterPath="$PROJECT_DIR$/eclipse/saves/New World/playerdata/23d7e7bc-6e91-3bb0-aef5-04f8d5ce94c1.dat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eclipse/saves/New World/level.dat" afterPath="$PROJECT_DIR$/eclipse/saves/New World/level.dat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eclipse/saves/New World/level.dat_old" afterPath="$PROJECT_DIR$/eclipse/saves/New World/level.dat_old" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eclipse/saves/New World/region/r.-3.-1.mca" afterPath="$PROJECT_DIR$/eclipse/saves/New World/region/r.-3.-1.mca" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eclipse/saves/New World/region/r.-3.0.mca" afterPath="$PROJECT_DIR$/eclipse/saves/New World/region/r.-3.0.mca" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eclipse/saves/New World/region/r.-4.-1.mca" afterPath="$PROJECT_DIR$/eclipse/saves/New World/region/r.-4.-1.mca" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eclipse/saves/New World/region/r.-4.0.mca" afterPath="$PROJECT_DIR$/eclipse/saves/New World/region/r.-4.0.mca" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eclipse/saves/New World/session.lock" afterPath="$PROJECT_DIR$/eclipse/saves/New World/session.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eclipse/saves/New World/stats/23d7e7bc-6e91-3bb0-aef5-04f8d5ce94c1.json" afterPath="$PROJECT_DIR$/eclipse/saves/New World/stats/23d7e7bc-6e91-3bb0-aef5-04f8d5ce94c1.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CustomRPG.ipr" afterPath="$PROJECT_DIR$/CustomRPG.ipr" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/sidacious/customrpg/item/ItemBasicFoci.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CustomRPG.iws" afterPath="$PROJECT_DIR$/CustomRPG.iws" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/sidacious/customrpg/init/ModItems.java" afterPath="$PROJECT_DIR$/src/main/java/com/sidacious/customrpg/init/ModItems.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/sidacious/customrpg/reference/Name.java" afterPath="$PROJECT_DIR$/src/main/java/com/sidacious/customrpg/reference/Name.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eclipse/logs/fml-client-1.log" afterPath="$PROJECT_DIR$/eclipse/logs/fml-client-1.log" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eclipse/logs/fml-client-2.log" afterPath="$PROJECT_DIR$/eclipse/logs/fml-client-2.log" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eclipse/logs/fml-client-3.log" afterPath="$PROJECT_DIR$/eclipse/logs/fml-client-3.log" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eclipse/logs/fml-client-latest.log" afterPath="$PROJECT_DIR$/eclipse/logs/fml-client-latest.log" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eclipse/logs/fml-junk-earlystartup.log" afterPath="$PROJECT_DIR$/eclipse/logs/fml-junk-earlystartup.log" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eclipse/logs/latest.log" afterPath="$PROJECT_DIR$/eclipse/logs/latest.log" />
     </list>
     <ignored path="CustomRPG.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -121,6 +77,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitLogSettings">
+    <option name="myStructureFilterPaths" />
     <option name="myDateState">
       <MyDateState />
     </option>
@@ -205,7 +162,7 @@
     <option name="STATE" value="0" />
   </component>
   <component name="ProjectView">
-    <navigator currentView="PackagesPane" proportions="" version="1">
+    <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
       <showMembers />
       <showModules />
@@ -236,6 +193,24 @@
               <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CustomRPG" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CustomRPG" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="PackagesPane">
@@ -244,50 +219,6 @@
             <PATH_ELEMENT>
               <option name="myItemId" value="CustomRPG" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="CustomRPG" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="CustomRPG" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="CustomRPG" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="com" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="sidacious" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="customrpg" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="CustomRPG" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="CustomRPG" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="assets" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="customrpg" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
@@ -510,6 +441,11 @@
       <created>1415783652277</created>
       <updated>1415783652277</updated>
     </task>
+    <task id="LOCAL-00001" summary="...">
+      <created>1419744449244</created>
+      <updated>1419744449244</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -537,7 +473,7 @@
     <editor active="false" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.4090909" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32900432" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
@@ -546,17 +482,17 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.12662338" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32900432" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32900432" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25541127" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32900432" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32900432" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
     </layout>
@@ -576,6 +512,8 @@
     <option name="myTodoPanelSettings">
       <TodoPanelSettings />
     </option>
+    <MESSAGE value="..." />
+    <option name="LAST_COMMIT_MESSAGE" value="..." />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="true" />
   </component>
   <component name="XDebuggerManager">
@@ -605,7 +543,7 @@
         <state vertical-scroll-proportion="0.0" vertical-offset="374" max-vertical-offset="476">
           <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -852,7 +790,7 @@
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="408">
           <caret line="17" column="1" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -869,7 +807,7 @@
         <state vertical-scroll-proportion="0.46363637" vertical-offset="0" max-vertical-offset="660">
           <caret line="20" column="41" selection-start-line="20" selection-start-column="41" selection-end-line="20" selection-end-column="41" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -903,7 +841,7 @@
         <state vertical-scroll-proportion="0.4174107" vertical-offset="0" max-vertical-offset="896">
           <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
